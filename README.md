@@ -1,2 +1,1 @@
-# media
-Media and Data Repository
+# motionIQ Media Samples
