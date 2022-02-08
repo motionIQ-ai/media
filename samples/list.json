@@ -2,16 +2,16 @@
   {
     "url": "https://localhost",
     "include": [".jpg", ".webm"],
-    "exclude": [".json"]
+    "exclude": []
   },
   {
     "url": "https://motioniq-ai.github.io/demo-private",
     "include": [".jpg", ".webm"],
-    "exclude": [".json"]
+    "exclude": []
   },
   {
-    "url": "https://motioniq-ai.github.io/demo-public",
+    "url": "https://motioniq-ai.github.io/",
     "include": [".jpg", ".webm"],
-    "exclude": [".json"]
+    "exclude": ["Swimwear", "Table Tennis", "Soccer Goalie Run", "Basketball - Group"]
   }
 ]
