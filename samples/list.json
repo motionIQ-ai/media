@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://localhost",
+    "include": [".jpg", ".webm"],
+    "exclude": [".json"]
+  },
+  {
+    "url": "https://motioniq-ai.github.io/demo-private",
+    "include": [".jpg", ".webm"],
+    "exclude": [".json"]
+  },
+  {
+    "url": "https://motioniq-ai.github.io/demo-public",
+    "include": [".jpg", ".webm"],
+    "exclude": [".json"]
+  }
+]
