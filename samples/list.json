@@ -12,6 +12,6 @@
   {
     "url": "https://motioniq-ai.github.io/",
     "include": [".jpg", ".webm"],
-    "exclude": ["Swimwear", "Table Tennis", "Soccer Goalie Run", "Basketball - Group"]
+    "exclude": ["Swimwear", "Table Tennis", "Soccer Goalie Run", "Basketball - Group", "Rythm Gymnatics"]
   }
 ]
