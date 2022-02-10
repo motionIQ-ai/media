@@ -5,12 +5,12 @@
     "exclude": []
   },
   {
-    "url": "https://motioniq-ai.github.io/demo-private",
+    "url": "https://motioniq-ai.github.io/canary",
     "include": [".jpg", ".webm"],
     "exclude": []
   },
   {
-    "url": "https://motioniq-ai.github.io/",
+    "url": "https://motioniq-ai.github.io/preview",
     "include": [".jpg", ".webm"],
     "exclude": ["Swimwear", "Basketball - Group", "Badminton - Group", "Table Tennis", "Rythm Gymnatics", "Soccer Goalie Run"]
   }
