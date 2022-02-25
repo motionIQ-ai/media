@@ -1,6 +1,6 @@
 {
   "image: Badminton": { "scalePerson": [2.50, 1.50, 2.00] },
-  "image: Baseball Hit": { "scalePerson": [2.65, 1.50, 2.30] },
+  "image: Baseball Hit": { "scalePerson": [2.65, 1.50, 2.30], "groundLevel": 0 },
   "image: Baseball Pitch": { "scalePerson": [2.45, 2.00, 1.40] },
   "image: Basketball Layup": { "scalePerson": [1.40, 2.15, 1.85] },
   "image: Football Run": { "scalePerson": [2.00, 1.50, 2.25] },
