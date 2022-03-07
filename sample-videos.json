@@ -33,5 +33,9 @@
   { "skeleton": "smpl+head_30", "minify": 1, "video": "original/Swimwear - Ardiente #5.webm" },
   { "skeleton": "smpl+head_30", "minify": 1, "video": "original/Swimwear - KaoHS.webm" },
   { "skeleton": "smpl+head_30", "minify": 1, "video": "original/Swimwear - Sahara.webm" },
-  { "skeleton": "smpl+head_30", "minify": 1, "video": "original/Table Tennis.webm" }
+  { "skeleton": "smpl+head_30", "minify": 1, "video": "original/Table Tennis.webm" },
+  { "skeleton": "smpl+head_30", "minify": 1, "video": "local/Naked Gymnast 01.webm" },
+  { "skeleton": "smpl+head_30", "minify": 1, "video": "local/Naked Gymnast 02.webm" },
+  { "skeleton": "smpl+head_30", "minify": 1, "video": "local/Naked Gymnast 03.webm" },
+  { "skeleton": "smpl+head_30", "minify": 1, "video": "local/Naked Yoga.webm" }
 ]
