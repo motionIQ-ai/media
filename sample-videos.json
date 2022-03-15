@@ -37,5 +37,7 @@
   { "skeleton": "smpl+head_30", "minify": 1, "video": "local/Naked Gymnast 01.webm" },
   { "skeleton": "smpl+head_30", "minify": 1, "video": "local/Naked Gymnast 02.webm" },
   { "skeleton": "smpl+head_30", "minify": 1, "video": "local/Naked Gymnast 03.webm" },
-  { "skeleton": "smpl+head_30", "minify": 1, "video": "local/Naked Yoga.webm" }
+  { "skeleton": "smpl+head_30", "minify": 1, "video": "local/Naked Yoga.webm" },
+  { "skeleton": "smpl+head_30", "minify": 1, "video": "samples/Football Field Goal Front View.webm" },
+  { "skeleton": "smpl+head_30", "minify": 1, "video": "samples/Football Field Goal Back View.webm" }
 ]
