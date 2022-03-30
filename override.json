@@ -1,4 +1,9 @@
 {
+  "image: Group Dance Pose":
+  {
+    "scalePerson": [2.24, 1.87, 2.04],
+    "scaleScene": [1.42, 1.00, 1.10]
+  },
   "image: Football Run 1":
   {
     "groundPosition": [0, -0.12, 0],
