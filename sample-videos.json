@@ -18,6 +18,11 @@
   { "skeleton": "smpl+head_30", "maxpeople": 1, "minify": 1, "video": "original/Tennis Serve Back View.webm" },
   { "skeleton": "smpl+head_30", "maxpeople": 1, "minify": 1, "video": "original/Tennis Serve Front View - Slow Motion.webm" },
   { "skeleton": "smpl+head_30", "maxpeople": 1, "minify": 1, "video": "original/Tennis Serve Side View - Slow Motion.webm" },
+  { "skeleton": "smpl+head_30", "maxpeople": 1, "minify": 1, "video": "original/Yoga - Outdoors.webm" },
+  { "skeleton": "smpl+head_30", "maxpeople": 1, "minify": 1, "video": "original/Yoga - Simple - Front.webm" },
+  { "skeleton": "smpl+head_30", "maxpeople": 1, "minify": 1, "video": "original/Yoga - Simple - Side.webm" },
+  { "skeleton": "smpl+head_30", "maxpeople": 1, "minify": 1, "video": "original/Yoga - Streching - Long.webm" },
+  { "skeleton": "smpl+head_30", "maxpeople": 1, "minify": 1, "video": "original/Yoga - Streching - Short.webm" },
   { "skeleton": "smpl+head_30", "minify": 1, "video": "original/Badminton - Group.webm" },
   { "skeleton": "smpl+head_30", "minify": 1, "video": "original/Basketball - Group.webm" },
   { "skeleton": "smpl+head_30", "minify": 1, "video": "original/Dance - BlackPink Practise - Low Quality.webm" },
@@ -34,10 +39,10 @@
   { "skeleton": "smpl+head_30", "minify": 1, "video": "original/Swimwear - KaoHS.webm" },
   { "skeleton": "smpl+head_30", "minify": 1, "video": "original/Swimwear - Sahara.webm" },
   { "skeleton": "smpl+head_30", "minify": 1, "video": "original/Table Tennis.webm" },
+  { "skeleton": "smpl+head_30", "minify": 1, "video": "samples/Football Field Goal Back View.webm" },
+  { "skeleton": "smpl+head_30", "minify": 1, "video": "samples/Football Field Goal Front View.webm" },
   { "skeleton": "smpl+head_30", "minify": 1, "video": "local/Naked Gymnast 01.webm" },
   { "skeleton": "smpl+head_30", "minify": 1, "video": "local/Naked Gymnast 02.webm" },
   { "skeleton": "smpl+head_30", "minify": 1, "video": "local/Naked Gymnast 03.webm" },
-  { "skeleton": "smpl+head_30", "minify": 1, "video": "local/Naked Yoga.webm" },
-  { "skeleton": "smpl+head_30", "minify": 1, "video": "samples/Football Field Goal Front View.webm" },
-  { "skeleton": "smpl+head_30", "minify": 1, "video": "samples/Football Field Goal Back View.webm" }
+  { "skeleton": "smpl+head_30", "minify": 1, "video": "local/Naked Yoga.webm" }
 ]
