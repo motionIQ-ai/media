@@ -1,12 +1,12 @@
 [
   {
     "url": "https://localhost",
-    "include": [".jpg", ".webm"],
+    "include": [".jpg", ".webm", ".mp4"],
     "exclude": []
   },
   {
     "url": "https://motioniq-ai.github.io/canary",
-    "include": [".jpg", ".webm"],
+    "include": [".jpg", ".webm", ".mp4"],
     "exclude": []
   },
   {
