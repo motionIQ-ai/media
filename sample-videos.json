@@ -45,4 +45,8 @@
   { "skeleton": "smpl+head_30", "minify": 1, "video": "local/Naked Gymnast 02.webm" },
   { "skeleton": "smpl+head_30", "minify": 1, "video": "local/Naked Gymnast 03.webm" },
   { "skeleton": "smpl+head_30", "minify": 1, "video": "local/Naked Yoga.webm" }
+  { "skeleton": "smpl+head_30", "minify": 1, "video": "local/Exercise - 30m Body Streching.mp4" }
+  { "skeleton": "smpl+head_30", "minify": 1, "video": "local/Exercise - 10m Strong Yoga.mp4" }
+  { "skeleton": "smpl+head_30", "minify": 1, "video": "local/Exercise - 10m Sweaty Endorphins.mp4" }
+  { "skeleton": "smpl+head_30", "minify": 1, "video": "local/Exercise - 15m Jumping Cardio.mp4" }
 ]
