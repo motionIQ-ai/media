@@ -13,5 +13,5 @@
     "url": "http://http://34.132.53.201",
     "include": [".jpg", ".webm", ".mp4"],
     "exclude": []
-  },
+  }
 ]
