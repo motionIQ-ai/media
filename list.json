@@ -1,5 +1,10 @@
 [
   {
+    "url": "http://localhost",
+    "include": [".jpg", ".webm", ".mp4"],
+    "exclude": []
+  },
+  {
     "url": "https://localhost",
     "include": [".jpg", ".webm", ".mp4"],
     "exclude": []
